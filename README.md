@@ -1,0 +1,46 @@
+# Code Smell Detection and Machine Learning Papers
+
+A curated list of papers focusing on code smell detection and machine learning techniques.
+
+## Papers
+
+1. [Code Structure–Guided Transformer](#)
+2. [Towards Summarizing Code Snippets](#)
+3. [Calibrating Deep Learning-based Code](#)
+4. [Dimensionally Reduction based Machine Learning](#)
+5. [Detecting Code Smell with a Deep Learning System](#)
+6. [Machine Learning Powered Code Smell Detection as a Business Improvement Tool](#)
+7. [Detection Bad Code Smells By Using Deep Machine Learning Approaches](#)
+8. [StructCoder: Structure-Aware Transformer for Code Generation](#)
+9. [Towards Summarizing Code Snippets Using Pre-Trained Transformers](#)
+10. [BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching](#)
+11. [Naturalness of Attention: Revisiting Attention in Code Language Models](#)
+12. [Enhancing Code Understanding for Impact Analysis by Combining Transformers and Program Dependence Graphs](#)
+13. [Automating Code-Related Tasks Through Transformers: The Impact of Pre-Training](#)
+14. [FedCSD: A Federated Learning-Based Approach for Code-Smell Detection](#)
+15. [VulD-Transformer: Source Code Vulnerability Detection via Transformer](#)
+16. [Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis](#)
+17. [Code Smell Detection using Hybrid Machine Learning Algorithms](#)
+18. [MARS: Detecting Brain Class/Method Code Smell Based on Metric–Attention Mechanism and Residual Network](#)
+19. [Improving Performance with Hybrid Feature Selection and Ensemble Machine Learning Techniques for Code Smell Detection](#)
+20. [Python Code Smell Detection Using Machine Learning](#)
+21. [An Empirical Study of Code Smells in Transformer-based Code Generation Techniques](#)
+22. [Voting Heterogeneous Ensemble for Code Smell Detection](#)
+23. [Applying Machine Learning to Customized Smell Detection: A Multi-Project Study](#)
+24. [Predicting Code Smells and Analysis of Predictions: Using Machine Learning Techniques and Software Metrics](#)
+25. [A Machine-Learning Based Ensemble Method for Anti-Patterns Detection](#)
+26. [A Large Empirical Assessment of the Role of Data Balancing in Machine-Learning-Based Code Smell Detection](#)
+27. [Detecting Bad Smells with Machine Learning Algorithms: An Empirical Study](#)
+28. [Machine Learning Techniques for Code Smells Detection: An Empirical Experiment on a Highly Imbalanced Setup](#)
+29. [Sniffing Android Code Smells: An Association Rules Mining-Based Approach](#)
+30. [Comparing Heuristic and Machine Learning Approaches for Metric-Based Code Smell Detection](#)
+31. [Smells Are Sensitive to Developers! On the Efficiency of (Un)Guided Customized Detection](#)
+32. [Identification of Code Smell Using Machine Learning](#)
+33. [Comparison of Multi-Label Classification Algorithms for Code Smell Detection](#)
+34. [Assessment of Code Smell for Predicting Class Change Proneness Using Machine Learning](#)
+35. [An Empirical Framework for Code Smell Prediction Using Extreme Learning Machine](#)
+36. [On the Role of Data Balancing for Machine Learning-Based Code Smell Detection](#)
+37. [Deep Semantic-Based Feature Envy Identification](#)
+38. [Detecting Code Smells Using Machine Learning Techniques: Are We There Yet?](#)
+
+---
